@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(https://d262ilb51hltx0.cloudfront.net/fit/t/1200/960/gradv/29/81/55/1*AJALCafqXhfLMG7iF7Ho0A.jpeg);
+}
+header h1 {
+  height: 600px;
+  line-height: 200px;
+  color: #f06;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 144px;
+  text-align: center;
+  text-shadow: 0 10 2px black;
+}
+header h2 {
+	height: 600px;
+	line-height: 200px;
+	color: #ff7788;
+	text-align: center;
+}
+section,
+aside {
+  width: 80%;
+  margin: 6em auto;
+}
